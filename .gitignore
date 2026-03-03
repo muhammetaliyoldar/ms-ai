@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Outputs
+runs/
+artifacts/
+logs/
+*.pth
+*.pt
+*.pkl
+*.csv
+
+# Local config overrides (opsiyonel)
+config.local.yaml

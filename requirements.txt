@@ -1,0 +1,9 @@
+numpy
+pandas
+nibabel
+monai
+pyyaml
+click
+scipy
+scikit-learn
+matplotlib

@@ -1,0 +1,10 @@
+data:
+  root_dir: "/mnt/ortak/MS-AI/döküman/27919209/MSLesSeg Dataset/MSLesSeg Dataset"
+  multi_timepoint_format: "train/{patient_id}/{timepoint_id}" # Supports parsing e.g. train/P1/T1
+
+processing:
+  target_spacing: [1.0, 1.0, 1.0]
+
+model:
+  seg_weights: null
+  edss_weights: null
